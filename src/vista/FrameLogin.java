@@ -1,6 +1,7 @@
 package vista;
 
 // Prueba de commit
+//Prueba 2
 import java.awt.Color;
 import java.awt.Dimension;
 public class FrameLogin extends javax.swing.JFrame {
